@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Estética - Agendamento Online & Gestão",
+  "description": "Sistema completo de agendamento online para clínica de estética com botão de WhatsApp e integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
